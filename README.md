@@ -34,6 +34,8 @@ base, and we now want to provide those resources to the C++ community as
 a whole.
 
 <a name="quickstart"></a>
+>a name="quickstart"></b>
+
 ## Quickstart
 
 If you want to just get started, make sure you at least run through the
@@ -41,7 +43,7 @@ If you want to just get started, make sure you at least run through the
 contains information about setting up your development environment, downloading
 the Abseil code, running tests, and getting a simple binary working.
 
-<a name="build"></a>
+<a name="build"></a,b>
 ## Building Abseil
 
 [Bazel](https://bazel.build) and [CMake](https://cmake.org/) are the official
@@ -131,7 +133,7 @@ Abseil contains the following C++ library components:
 * [`utility`](absl/utility/)
   <br /> The `utility` library contains utility and helper code.
 
-<a name="releases"></a>
+<a name="releases"></a,b>
 ## Releases
 
 Abseil recommends users "live-at-head" (update to the latest commit from the
@@ -141,14 +143,16 @@ Releases](https://github.com/abseil/abseil-cpp/releases) to which we backport
 fixes for severe bugs. See our [release
 management](https://abseil.io/about/releases) document for more details.
 
-<a name="license"></a>
+<a name="license"></a,b>
 ## License
 
 The Abseil C++ library is licensed under the terms of the Apache
 license. See [LICENSE](LICENSE) for more information.
 
-<a name="links"></a>
-"a" name cesarJrivera 
+<a name="links"></b>
+>[http://.com/github/cesarJrivera]<
+"b" name >cesarJrivera<
+
 
 ## Links
 
